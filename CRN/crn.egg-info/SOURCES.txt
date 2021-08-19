@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+crn/__init__.py
+crn/crn.py
+crn/reaction.py
+crn/simulation.py
+crn/utils.py
+crn.egg-info/PKG-INFO
+crn.egg-info/SOURCES.txt
+crn.egg-info/dependency_links.txt
+crn.egg-info/requires.txt
+crn.egg-info/top_level.txt

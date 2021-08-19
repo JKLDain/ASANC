@@ -1,0 +1,6 @@
+[submodule "noisereduce"]
+	path = noisereduce
+	url = https://github.com/timsainb/noisereduce.git
+[submodule "ASANC"]
+	path = ASANC
+	url = https://github.com/JKLDain/ASANC.git
